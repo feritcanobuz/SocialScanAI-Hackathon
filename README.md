@@ -16,7 +16,9 @@ kök dizindeki frontend klasöründeki index.html sağ tık open with live serve
 
 
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+
 pip install -r requirements.txt
+
 cp .env.example .env  # anahtarlarını doldur
 
 ### Yeni ürün ekleme (ID üretimi + ilgili comment dosyasında boş liste)
