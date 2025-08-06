@@ -1,6 +1,6 @@
 # SocialScanAI
 
-**Projenin ayrıntılı sunumunu kök dizinde Rapor_SocialScanAI olarak paylaştık**
+**Projenin ayrıntılı github reposundasunumunu kök dizinde Rapor_SocialScanAI olarak paylaştık.**
 
 Multimodal (görsel + metin) ürün arama, mağazalar arası karşılaştırma (Pricelens) ve WhatsApp bildirimleri (B2C/B2B) sağlayan hızlı bir demo.
 Amacımız, kullanıcı ürünün adını bilmese bile görsel ya da betimleyici metinle aradığını hızlı ve doğru bulsun; ardından üç mağaza arasında tek bir “en iyi teklif” önerisi alsın. Bunu; ürünlerden çıkardığımız görsel ve metinsel vektörleri (CLIP + ST) birleştirip, RRF ile farklı arama sinyallerini tek listede toplayarak yapıyoruz. Son adımda Pricelens skoru ile fiyat–yorum–algı dengesini özetleyip en mantıklı seçeneği öne çıkarıyoruz. Kullanıcı isterse ürün için stok ve fiyat takibi açıyor; değişiklikte WhatsApp’tan bildirim gidiyor. Aynı ürün/mağazada talep artarsa satıcıya B2B içgörü (stok güncelle, kampanya önerisi) üretiyoruz.
