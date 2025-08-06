@@ -19,31 +19,31 @@ python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\act
 pip install -r requirements.txt
 cp .env.example .env  # anahtarlarını doldur
 
-# Yeni ürün ekleme (ID üretimi + ilgili comment dosyasında boş liste)
+### Yeni ürün ekleme (ID üretimi + ilgili comment dosyasında boş liste)
 python -m tools.data_tool.ops.product_add
 
-# Boş description/tags alanlarını Gemini ile doldur
+#### Boş description/tags alanlarını Gemini ile doldur
 python -m tools.data_tool.ops.gen_gemini
 
-# Vektör üretimi
+#### Vektör üretimi
 python -m tools.data_tool.ops.embed_clip
 python -m tools.data_tool.ops.embed_text_st
 python -m tools.data_tool.ops.embed_text_clip
 python -m tools.data_tool.ops.embed_combined
 
-# Metinle arama
+### Metinle arama
 python -m tools.data_tool.search.search_by_text
 
-# Görselle arama
+### Görselle arama
 python -m tools.data_tool.search.search_by_image
 
 python -m tools.data_tool.ops.run_all_pipeline
 
-# API (FastAPI)
+### API (FastAPI)
 python -m uvicorn api.main:app --reload --host 0.0.0.0 --port 8000
 
-# WhatsApp bildirim worker’ı (Twilio)
+### WhatsApp bildirim worker’ı (Twilio)
 python api/notification_worker.py
 
-# Kök dizinde
+### Kök dizinde
 python run_all_store.py
