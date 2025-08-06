@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+
+# temp/backup
+*.tmp
+*.bak-*
+
+# env
+.env
+
+
+# State files (hash tracking)
+state/
+state/**
+*.json
+
+# Cache files
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+.Python
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Model cache/downloads
+models/
+*.pkl
+*.bin
+*.safetensors
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

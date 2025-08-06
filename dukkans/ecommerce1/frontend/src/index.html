@@ -1,0 +1,75 @@
+<!-- frontend/src/index.html -->
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AmberDark - Sıcak ve Şık E-Ticaret</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <h1 id="site-title">🧡 AmberDark</h1>
+
+    <!-- Filtre ve Sıralama Kontrolleri -->
+    <div class="container">
+      <div class="filters-container">
+        <div class="filters-row">
+          <div class="filter-group">
+            <label for="sort-select">Sıralama:</label>
+            <select id="sort-select" class="filter-select">
+              <option value="">Varsayılan</option>
+              <option value="price-asc">Fiyat (Düşükten Yükseğe)</option>
+              <option value="price-desc">Fiyat (Yüksekten Düşüğe)</option>
+              <option value="rating-desc">Rating (Yüksekten Düşüğe)</option>
+            </select>
+          </div>
+          
+          <div class="filter-group">
+            <label>Fiyat Aralığı:</label>
+            <input type="number" id="min-price" class="filter-input" placeholder="Min" min="0">
+            <span>-</span>
+            <input type="number" id="max-price" class="filter-input" placeholder="Max" min="0">
+          </div>
+          
+          <div class="filter-group">
+            <label for="rating-filter">Rating:</label>
+            <select id="rating-filter" class="filter-select">
+              <option value="">Tümü</option>
+              <option value="4">4+ Yıldız</option>
+              <option value="4.5">4.5+ Yıldız</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Kategori Filtreleri -->
+    <div id="category-filter">
+      <button data-cat="all" class="active">Tümü</button>
+      <button data-cat="ayakkabi">Ayakkabı</button>
+      <button data-cat="sapka">Şapka</button>
+      <button data-cat="sweat">Sweat</button>
+      <button data-cat="tshirt">Tişört</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="product-list"></div>
+  </main>
+
+  <script src="js/render.js?v=1338"></script>
+
+  <!-- Scroll dinleyici -->
+  <script>
+    window.addEventListener("scroll", function () {
+      const header = document.querySelector("header");
+      if (window.scrollY > 80) {
+        header.classList.add("shrink");
+      } else {
+        header.classList.remove("shrink");
+      }
+    });
+  </script>
+</body>
+</html>

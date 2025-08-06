@@ -1,0 +1,143 @@
+# Master Configuration File - SocialScanAI
+project:
+  name: "SocialScanAI"
+  version: "1.0.0"
+  description: "AI-powered E-commerce Analytics Platform"
+
+# E-commerce Store Configurations
+shops:
+  ecommerce1:
+    name: "Store 1"
+    data_path: "dukkans/ecommerce1/backend/data"
+    image_path: "dukkans/ecommerce1/backend/data/images"
+    frontend_path: "dukkans/ecommerce1/frontend"
+    port: 8001
+    theme: "modern"
+  ecommerce2:
+    name: "Store 2" 
+    data_path: "dukkans/ecommerce2/backend/data"
+    image_path: "dukkans/ecommerce2/backend/data/images"
+    frontend_path: "dukkans/ecommerce2/frontend"
+    port: 8002
+    theme: "classic"
+  ecommerce3:
+    name: "Store 3"
+    data_path: "dukkans/ecommerce3/backend/data"
+    image_path: "dukkans/ecommerce3/backend/data/images"
+    frontend_path: "dukkans/ecommerce3/frontend"
+    port: 8003
+    theme: "minimal"
+
+# Product Categories Configuration
+categories:
+  ayakkabi:
+    name: "Ayakkabı"
+    id_prefix: "ayk"
+    product_file: "product/ayakkabi.json"
+    comments_file: "comments/ayakkabi_comments.json"
+    image_folder: "ayakkabi"
+  sapka:
+    name: "Şapka"
+    id_prefix: "sap"
+    product_file: "product/sapka.json"
+    comments_file: "comments/sapka_comments.json"
+    image_folder: "sapka"
+  sweat:
+    name: "Sweatshirt"
+    id_prefix: "swt"
+    product_file: "product/sweat.json"
+    comments_file: "comments/sweat_comments.json"
+    image_folder: "sweat"
+  tshirt:
+    name: "T-Shirt"
+    id_prefix: "tsh"
+    product_file: "product/tshirt.json"
+    comments_file: "comments/tshirt_comments.json"
+    image_folder: "tshirt"
+
+# AI Model Configurations
+models:
+  clip:
+    model_name: "open_clip:ViT-B-32/laion2b_s34b_b79k"
+    description: "CLIP model for image-text embedding"
+    use_cases: ["image_search", "visual_similarity"]
+  text_st:
+    model_name: "sentence-transformers:all-MiniLM-L6-v2"
+    description: "Sentence transformer for text embedding"
+    use_cases: ["text_search", "semantic_similarity"]
+  text_clip:
+    model_name: "open_clip:ViT-B-32/laion2b_s34b_b79k"
+    description: "CLIP text encoder"
+    use_cases: ["text_embedding", "cross_modal_search"]
+
+# API Configurations
+api:
+  main_port: 8000
+  host: "0.0.0.0"
+  reload: true
+  worker_enabled: true
+  notification_worker:
+    enabled: true
+    check_interval: 30  # seconds (from .env CHECK_INTERVAL_SECONDS)
+
+# Notification Configurations
+notifications:
+  twilio:
+    enabled: true
+    account_sid: "${TWILIO_ACCOUNT_SID}"
+    auth_token: "${TWILIO_AUTH_TOKEN}"
+    whatsapp_from: "${TWILIO_WHATSAPP_FROM}"
+  b2b:
+    enabled: true
+    seller_phone: "${B2B_SELLER_PHONE}"
+
+# Pipeline Configurations
+pipeline:
+  auto_embedding: true
+  sentiment_analysis: true
+  cache_enabled: true
+  batch_processing: true
+  max_workers: 4
+
+# Path Configurations
+paths:
+  root: "."
+  config: "config"
+  tools: "tools"
+  data_tool: "tools/data_tool"
+  cache: "dukkans/cache.json"
+  tracking: "state/tracking.json"
+  b2b_notified: "state/b2b_notified.json"
+
+# Environment Variables (use .env file in production)
+environment:
+  # Google AI
+  GOOGLE_API_KEY: "${GOOGLE_API_KEY}"
+  
+  # Twilio WhatsApp Integration
+  TWILIO_ACCOUNT_SID: "${TWILIO_ACCOUNT_SID}"
+  TWILIO_AUTH_TOKEN: "${TWILIO_AUTH_TOKEN}"
+  TWILIO_WHATSAPP_FROM: "${TWILIO_WHATSAPP_FROM}"
+  
+  # B2B Notifications
+  B2B_SELLER_PHONE: "${B2B_SELLER_PHONE}"
+  CHECK_INTERVAL_SECONDS: "${CHECK_INTERVAL_SECONDS}"
+  
+  # System
+  ENVIRONMENT: "development"
+  DEBUG: true
+  LOG_LEVEL: "INFO"
+
+# Feature Flags
+features:
+  image_search: true
+  text_search: true
+  sentiment_analysis: true
+  auto_notifications: true
+  multi_store_support: true
+  caching: true
+
+combined:
+  weights:
+    clip: 0.6
+    text_clip: 0.4

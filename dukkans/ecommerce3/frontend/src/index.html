@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>NeonGrid — Night Market</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="container wrap">
+      <div class="brand"><i></i> NeonGrid</div>
+      <div class="controls">
+        <select id="sort-select" class="select">
+          <option value="">Sıralama</option>
+          <option value="price-asc">Fiyat ⬆︎</option>
+          <option value="price-desc">Fiyat ⬇︎</option>
+          <option value="rating-desc">Rating</option>
+        </select>
+        <select id="rating-filter" class="select">
+          <option value="">Tüm Rating</option>
+          <option value="4">4+</option>
+          <option value="4.5">4.5+</option>
+        </select>
+        <input id="min-price" class="input" type="number" placeholder="Min">
+        <input id="max-price" class="input" type="number" placeholder="Max">
+      </div>
+    </div>
+    <div class="container">
+      <div id="category-filter">
+        <button data-cat="all" class="active">Tümü</button>
+        <button data-cat="ayakkabi">Ayakkabı</button>
+        <button data-cat="sapka">Şapka</button>
+        <button data-cat="sweat">Sweat</button>
+        <button data-cat="tshirt">Tişört</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="product-list"></div>
+  </main>
+
+  <script src="js/render.js"></script>
+</body>
+</html>

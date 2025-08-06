@@ -1,0 +1,75 @@
+<!-- frontend/src/product.html -->
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AmberDark | Ürün Detayı</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="product-header">
+    <div class="header-content">
+      <h1 class="page-title">🧡 Ürün Detayı</h1>
+      <a href="index.html" class="back-button">← Ana Sayfa</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="product-detail-container" class="product-detail"></div>
+    <div id="comments-container" class="comment-section"></div>
+
+    <!-- Lightbox Modal -->
+    <div id="lightbox-modal" class="lightbox-modal">
+      <div class="lightbox-content">
+        <button class="lightbox-close" onclick="closeLightbox()">&times;</button>
+        <button class="lightbox-nav lightbox-prev" onclick="prevImage()">‹</button>
+        <img id="lightbox-image" class="lightbox-image" src="" alt="">
+        <button class="lightbox-nav lightbox-next" onclick="nextImage()">›</button>
+      </div>
+    </div>
+  </main>
+
+  <script src="js/detail.js"></script>
+
+  <!-- Scroll down -> header gizle, scroll up -> göster -->
+  <script>
+    (function () {
+      const header = document.querySelector('.product-header');
+      if (!header) return;
+
+      let lastY = window.scrollY;
+      let raf = false;
+
+      function onScroll() {
+        const current = window.scrollY;
+        const delta = current - lastY;
+
+        const goingDown = delta > 4;
+        const goingUp   = delta < -4;
+
+        if (current > 120 && goingDown) {
+          header.classList.add('hidden');
+          header.classList.add('compact');   // ister ince kalsın
+        } else if (goingUp) {
+          header.classList.remove('hidden');
+          header.classList.add('compact');
+        }
+
+        if (current < 40) {
+          header.classList.remove('compact'); // sayfa tepesindeyken tam boy
+        }
+
+        lastY = current;
+        raf = false;
+      }
+
+      window.addEventListener('scroll', () => {
+        if (raf) return;
+        raf = true;
+        window.requestAnimationFrame(onScroll);
+      }, { passive: true });
+    })();
+  </script>
+</body>
+</html>
