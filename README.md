@@ -16,119 +16,36 @@ kök dizindeki frontend klasöründeki index.html sağ tık open with live serve
 
 
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+
 pip install -r requirements.txt
+
 cp .env.example .env  # anahtarlarını doldur
 
-# Yeni ürün ekleme (ID üretimi + ilgili comment dosyasında boş liste)
+### Yeni ürün ekleme (ID üretimi + ilgili comment dosyasında boş liste)
 python -m tools.data_tool.ops.product_add
 
-# Boş description/tags alanlarını Gemini ile doldur
+#### Boş description/tags alanlarını Gemini ile doldur
 python -m tools.data_tool.ops.gen_gemini
 
-# Vektör üretimi
+#### Vektör üretimi
 python -m tools.data_tool.ops.embed_clip
 python -m tools.data_tool.ops.embed_text_st
 python -m tools.data_tool.ops.embed_text_clip
 python -m tools.data_tool.ops.embed_combined
 
-# Metinle arama
+### Metinle arama
 python -m tools.data_tool.search.search_by_text
 
-# Görselle arama
+### Görselle arama
 python -m tools.data_tool.search.search_by_image
 
 python -m tools.data_tool.ops.run_all_pipeline
 
-# API (FastAPI)
+### API (FastAPI)
 python -m uvicorn api.main:app --reload --host 0.0.0.0 --port 8000
 
-# WhatsApp bildirim worker’ı (Twilio)
+### WhatsApp bildirim worker’ı (Twilio)
 python api/notification_worker.py
 
-# Kök dizinde
+### Kök dizinde
 python run_all_store.py
-
-socialscanai/
-├── .env
-├── .gitignore
-├── bunukesinokumanLAZIM.md
-├── README.md
-├── requirements.txt
-│
-├── api/
-│   ├── main.py
-│   └── notification_worker.py
-│
-├── frontend/
-│   └── index.html
-│
-├── state/
-│   ├── tracking.json
-│   └── b2b_notified.json
-│
-├── config/
-│   ├── categories.yml
-│   ├── config.yaml
-│   ├── models.yml
-│   └── shops.yml
-│
-├── dukkans/
-│   ├── cache.json
-│   ├── ecommerce1/               # ecommerce2 / ecommerce3 aynı şema
-│   │   ├── backend/
-│   │   │   ├── main.py
-│   │   │   └── data/
-│   │   │       ├── comments/
-│   │   │       │   ├── ayakkabi_comments.json
-│   │   │       │   ├── sapka_comments.json
-│   │   │       │   ├── sweat_comments.json
-│   │   │       │   └── tshirt_comments.json
-│   │   │       ├── images/
-│   │   │       │   ├── ayakkabi/ayk_01_1.jpg, ayk_01_2.jpg, …
-│   │   │       │   ├── sapka/…
-│   │   │       │   ├── sweat/…
-│   │   │       │   └── tshirt/…
-│   │   │       └── product/
-│   │   │           ├── ayakkabi.json
-│   │   │           ├── sapka.json
-│   │   │           ├── sweat.json
-│   │   │           └── tshirt.json
-│   │   └── frontend/
-│   │       ├── index.html
-│   │       ├── product.html
-│   │       └── src/
-│   │           ├── css/style.css
-│   │           └── js/
-│   │               ├── detail.js
-│   │               └── render.js
-│   └── ecommerce2/, ecommerce3/  # ↑ birebir aynı
-│
-└── tools/
-    └── data_tool/
-        ├── __init__.py
-        ├── cfg.py
-        ├── config.yaml
-        ├── hashutil.py
-        ├── io.py
-        ├── main.py
-        ├── schema.py
-        ├── text_utils.py
-        ├── util_id.py
-        │
-        ├── ops/
-        │   ├── __init__.py
-        │   ├── add_missing_vectors.py
-        │   ├── calc_metrics.py
-        │   ├── embed_clip.py
-        │   ├── embed_combined.py
-        │   ├── embed_text_clip.py
-        │   ├── embed_text_st.py
-        │   ├── gen_gemini.py
-        │   ├── product_add.py
-        │   ├── run_all_pipeline.py
-        │   ├── sentiment_pipeline.py
-        │   └── validate.py
-        │
-        └── search/
-            ├── search_by_image.py
-            └── search_by_text.py
