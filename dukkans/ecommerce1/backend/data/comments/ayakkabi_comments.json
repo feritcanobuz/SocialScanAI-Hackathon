@@ -1,0 +1,4983 @@
+{
+  "ayk_01": [
+    {
+      "user": "user01",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user02",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user03",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user04",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user05",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user06",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user07",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user08",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user09",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user10",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user11",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user12",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user13",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user14",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user15",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user16",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user17",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user18",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user19",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user20",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user21",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user22",
+      "rating": 5.0,
+      "text": "Rengi tam fotoğraflarda göründüğü gibi, muhteşem bir bordo. Orijinal ürün ve hızlı teslimat için teşekkür ederim. Kalıbı da tam oldu, kendi numaramı aldım.",
+      "polarity": 0.8,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user23",
+      "rating": 5.0,
+      "text": "Koleksiyonum için aldım, efsane bir model. Ayakkabı kusursuz durumda elime ulaştı. Satıcıya güvenebilirsiniz, paketleme de gayet özenliydi.",
+      "polarity": 0.9,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user24",
+      "rating": 5.0,
+      "text": "Hem şık hem de günlük kullanım için rahat. Jordan 1 rahatlığını ve bu rengin kalitesini anlatmaya gerek yok. Çok memnun kaldım.",
+      "polarity": 0.8,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user25",
+      "rating": 4.0,
+      "text": "Ürün çok güzel, rengi harika. Sadece kargo firması yüzünden bir gün gecikmeli geldi. Ayakkabının kendisiyle ilgili hiçbir sorun yok.",
+      "polarity": 0.6,
+      "intensity": 0.5,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user26",
+      "rating": 4.0,
+      "text": "Genel olarak çok beğendim. Deri kalitesi iyi. Sadece kutunun bir köşesi hafif ezilmişti, hediye alacaklar için önemli olabilir. Benim için sorun değil.",
+      "polarity": 0.7,
+      "intensity": 0.6,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user27",
+      "rating": 4.0,
+      "text": "Nike'ın standart kalıbı, ne büyük ne küçük. Ürün anlatıldığı gibi. Rengi ışığa göre biraz değişiyor ama kötü değil. Standart bir alışveriş oldu.",
+      "polarity": 0.2,
+      "intensity": 0.5,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user28",
+      "rating": 3.0,
+      "text": "Ayakkabı fena değil, model zaten bilinen bir model. Ama bağcıkların yanında minik bir leke gibi bir şey vardı, silince geçti. Daha dikkatli kontrol edilebilirdi.",
+      "polarity": -0.1,
+      "intensity": 0.3,
+      "density": 0.4,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user29",
+      "rating": 2.0,
+      "text": "Ayakkabının sağ tekinin burun kısmındaki dikişlerden birinde hafif bir atlama var. Çok yakından bakınca belli oluyor. İadeyle uğraşmak istemedim ama bu fiyattaki bir üründe böyle bir hatayı beklemezdim. Biraz hayal kırıklığı oldu.",
+      "polarity": -0.4,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_02": [
+    {
+      "user": "user30",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user31",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user32",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user33",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user34",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user35",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user36",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user37",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user38",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user39",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user40",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user41",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user42",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user43",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user44",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user45",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user46",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user47",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user48",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user49",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user50",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user51",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user52",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user53",
+      "rating": 5.0,
+      "text": "Tam bir yaz ayakkabısı. Her kıyafetle uyum sağlıyor. Satıcı ürünü ertesi gün kargoladı ve orijinal kutusunda, sorunsuz bir şekilde elime ulaştı. Teşekkürler",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user54",
+      "rating": 4.0,
+      "text": "Ürün beklediğim gibi güzel. Air Force kalıbı biraz geniş olduğu için yarım numara küçük tercih edilebilir. Benim ayağıma tam oldu. Sadece bir yıldızı, bu modelin ön kısmının çok çabuk kırışmasından dolayı kırdım.",
+      "polarity": 0.2,
+      "intensity": 0.6,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user55",
+      "rating": 4.0,
+      "text": "Renkleri canlı ve fotoğraftakilerle aynı. Çok rahat bir ayakkabı. Paketleme daha özenli olabilirdi, ayakkabı kutusu kargo poşetinin içinde biraz ezilmiş ama üründe sorun yok.",
+      "polarity": 0.2,
+      "intensity": 0.6,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user56",
+      "rating": 4.0,
+      "text": "Standart Air Force 1 deneyimi. Ne eksik ne fazla. Numaranız neyse onu alın. Ürün açıklamalarda anlatıldığı gibiydi.\"",
+      "polarity": 0.0,
+      "intensity": 0.0,
+      "density": 0.0,
+      "sentiment_class": "neutral"
+    },
+    {
+      "user": "user57",
+      "rating": 3.0,
+      "text": "Ayakkabının kendisi güzel ancak sitedeki fotoğraflarda rengi daha açık görünüyordu. Gelen ürün bir tık daha koyu gri. Yine de fena değil, kullanacağım.",
+      "polarity": -0.1,
+      "intensity": 0.3,
+      "density": 0.4,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user58",
+      "rating": 2.0,
+      "text": "Ayakkabıyı beğendim fakat sol tekinin dil kısmındaki Nike logosunun dikişi özensizdi, hatta bir kısmı söküktü. Kalite kontrolden nasıl geçti anlamadım. İade süreciyle uğraşmamak için terziye düzelttirdim ama bu durum canımı sıktı.",
+      "polarity": -0.4,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_03": [
+    {
+      "user": "user59",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user60",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user61",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user62",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user63",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user64",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user65",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user66",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user67",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user68",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user69",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user70",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user71",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user72",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user73",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user74",
+      "rating": 1.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user75",
+      "rating": 5.0,
+      "text": "Simsiyah bir Air Force 1, tam bir klasik. Her dolapta olması gereken bir parça. Orijinal ürün, kutusunda sorunsuz geldi. Çok memnunum",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user76",
+      "rating": 5.0,
+      "text": "Ayakkabı tam beklediğim gibi. Kir tutmuyor, her şeyle uyumlu. Satıcı çok hızlı kargoladı. Güvenilir alışveriş için teşekkürler.",
+      "polarity": 0.8,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user77",
+      "rating": 4.0,
+      "text": "Ürün çok güzel ve rahat. Tek dezavantajı siyah olduğu için tozu biraz fazla belli ediyor, sık sık temizlemek gerekiyor. Bunun dışında harika.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user78",
+      "rating": 4.0,
+      "text": "Air Force 1 kalıbı standarttır, bilen bilir. Ürünün kendisinde bir problem yok. Sadece teslimat beklediğimden bir gün daha uzun sürdü",
+      "polarity": -0.2,
+      "intensity": 0.3,
+      "density": 0.2,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user79",
+      "rating": 3.0,
+      "text": "Ayakkabının kendisi iyi fakat bana gelen kutu biraz yıpranmıştı. Hediye olarak almayı düşünüyordum, bu yüzden hayal kırıklığı oldu. Ayakkabıda sorun olmadığı için iade etmedim.",
+      "polarity": -0.4,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user80",
+      "rating": 1.0,
+      "text": "Kesinlikle hayal kırıklığı. 43 numara sipariş etmeme rağmen kutudan 42 numara çıktı. Müşteri hizmetleriyle görüştüğümde ise istediğim numaranın stokta kalmadığını söylediler. Mecburen iade etmek zorunda kaldım, bütün süreç boşa gitti.",
+      "polarity": -0.9,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_04": [
+    {
+      "user": "user81",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user82",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user83",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user84",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user85",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user86",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user87",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user88",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user89",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user90",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user91",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user92",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user93",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user94",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user95",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user96",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user97",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user98",
+      "rating": 1.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user99",
+      "rating": 5.0,
+      "text": "Zamansız bir klasik. Her kıyafetin altına yakışıyor. Tam numaramı aldım ve ayağıma mükemmel oturdu. Orijinal ürün, hızlı teslimat.",
+      "polarity": 0.8,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user100",
+      "rating": 5.0,
+      "text": "Vans kalitesi tartışılmaz. Rengi, modeli, duruşu harika. Kaykay için de günlük kullanım için de ideal. Çok memnunum.",
+      "polarity": 0.9,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user101",
+      "rating": 5.0,
+      "text": "Satıcıya teşekkürler, ürünü çok özenli paketlemiş ve hemen kargoya verdi. Ayakkabı zaten bildiğim ve sevdiğim bir model, hiçbir sorun yaşamadım.",
+      "polarity": 0.7,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user102",
+      "rating": 4.0,
+      "text": "Ürün çok güzel ama tüm Vans'lerde olduğu gibi ilk birkaç gün arkası ayağımı biraz vurdu. Kalın bir çorapla giyince alıştı. Bunun dışında bir sıkıntısı yok.",
+      "polarity": 0.2,
+      "intensity": 0.5,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user103",
+      "rating": 4.0,
+      "text": "Genel olarak çok memnunum, ayakkabı çok şık. Sadece kutusu kargoda biraz hasar görmüş, benim için sorun değil ama hediye alacaklar dikkat etmeli.",
+      "polarity": 0.6,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user104",
+      "rating": 3.0,
+      "text": "Ürün fotoğrafta göründüğü gibi. Standart Vans Old Skool. Kendi numaranızı tercih edebilirsiniz. Sorunsuz bir alışverişti.",
+      "polarity": 0.5,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    }
+  ],
+  "ayk_05": [
+    {
+      "user": "user105",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user106",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user107",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user108",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user109",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user110",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user111",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user112",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user113",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user114",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user115",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user116",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user117",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user118",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user119",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user120",
+      "rating": 5.0,
+      "text": "Rengi tam fotoğraftaki gibi, capcanlı bir hardal sarısı. Yaz ayları için harika bir seçim. Giyince herkesin gözü ayakkabıda kalıyor. Çok sevdim!",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user121",
+      "rating": 5.0,
+      "text": "Klasik Old Skool rahatlığı ve bu harika renk birleşince ortaya mükemmel bir ayakkabı çıkmış. Orijinal ürün, sorunsuz bir şekilde elime ulaştı.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user122",
+      "rating": 4.0,
+      "text": "Ayakkabı çok güzel, rengi de dikkat çekici. Tek dezavantajı açık renk olduğu için çok çabuk kirlenmesi. Sürekli temiz tutmak gerekiyor. Bunu bilerek alın.",
+      "polarity": 0.2,
+      "intensity": 0.5,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user123",
+      "rating": 4.0,
+      "text": "Genel olarak memnunum. Kendi numaramı aldım tam oldu. Sadece kargo şirketi kaynaklı bir gecikme yaşandı, ürün elime 4 günde ulaştı. Ayakkabının kendisinde sorun yok.",
+      "polarity": 0.4,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user124",
+      "rating": 4.0,
+      "text": "Ürün kalitesi bildiğimiz Vans kalitesi. Renk de güzel. Standart, sorunsuz bir alışveriş oldu. Numaranız neyse onu alabilirsiniz.",
+      "polarity": 0.8,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user125",
+      "rating": 3.0,
+      "text": "Rengi fena değil ama fotoğraflarda daha parlak ve canlı bir sarı gibi duruyordu. Gelen ürün bir tık daha mat. Yine de iade etmeyeceğim, kullanılabilir.",
+      "polarity": 0.2,
+      "intensity": 0.3,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user126",
+      "rating": 1.0,
+      "text": "Büyük bir hevesle aldım ama ayakkabının kanvas kısmında, sanki üzerine bir şey damlamış gibi küçük siyah lekelerle geldi. Silmeyi denedim ama çıkmadı. Bu kadar açık bir renkte o lekeler çok belli oluyor. Direkt iade talebi oluşturdum.",
+      "polarity": -0.8,
+      "intensity": 0.9,
+      "density": 0.7,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_06": [
+    {
+      "user": "user127",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user128",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user129",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user130",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user131",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user132",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user133",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user134",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user135",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user136",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user137",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user138",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user139",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user140",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user141",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user142",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user143",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user144",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user145",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user146",
+      "rating": 5.0,
+      "text": "Tam bir sonbahar ayakkabısı. Kalitesi, rahatlığı ve tarzı mükemmel. Orijinal ürün ve hızlı kargo için satıcıya teşekkürler.",
+      "polarity": 0.9,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user147",
+      "rating": 5.0,
+      "text": "Sk8-Hi modelinin bileği sarması ve duruşu harika. Lacivert renk de siyah kadar klasik ama daha farklı bir hava katıyor. Çok beğendim.",
+      "polarity": 0.7,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user148",
+      "rating": 5.0,
+      "text": "Hem kotlarla hem de kanvas pantolonlarla harika duruyor. Tam numaramı aldım ve ayağıma çok iyi oturdu. Kesinlikle tavsiye ederim.",
+      "polarity": 0.8,
+      "intensity": 0.8,
+      "density": 0.75,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user149",
+      "rating": 4.0,
+      "text": "Ayakkabı çok güzel, rengi ve modeli tam istediğim gibi. Sadece yüksek bilekli olduğu için giyip çıkarması biraz zahmetli olabiliyor. Onun dışında süper.",
+      "polarity": 0.7,
+      "intensity": 0.6,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user150",
+      "rating": 4.0,
+      "text": "Ürün kalitesi çok iyi. Sadece süet kısımlarının rengi fotoğrafta bir tık daha canlı duruyordu, gerçekte biraz daha mat. Yine de çok şık",
+      "polarity": 0.5,
+      "intensity": 0.5,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user151",
+      "rating": 4.0,
+      "text": "Standart Vans kalitesi ve kalıbı. Ürün görseldeki gibiydi, bir sürprizle karşılaşmadım. Sorunsuz bir alışverişti.",
+      "polarity": 0.6,
+      "intensity": 0.6,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user152",
+      "rating": 4.0,
+      "text": "Teslimat zamanında yapıldı, paketleme de iyiydi. Ayakkabı rahat, numaranızı alabilirsiniz. Beklentilerimi karşıladı.",
+      "polarity": 0.7,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user153",
+      "rating": 3.0,
+      "text": "Bilek kısmı ilk giydiğimde biraz sert geldi ve vurdu. Birkaç gün giydikten sonra yumuşayıp ayağımın şeklini aldı. Alışması biraz zaman alıyor",
+      "polarity": 0.1,
+      "intensity": 0.5,
+      "density": 0.33,
+      "sentiment_class": "neutral"
+    },
+    {
+      "user": "user154",
+      "rating": 1.0,
+      "text": "Büyük bir hayal kırıklığı. Ayakkabının iç astarında, tam topuk kısmına denk gelen yerde bir üretim hatası var. Kumaşta bir potluk oluşmuş ve sürekli ayağıma batarak yara yaptı. Giyilmesi mümkün değil, iade ediyorum.",
+      "polarity": -0.8,
+      "intensity": 0.9,
+      "density": 0.6,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_07": [
+    {
+      "user": "user155",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user156",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user157",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user158",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user159",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user160",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user161",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user162",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user163",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user164",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user165",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user166",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user167",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user168",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user169",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user170",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user171",
+      "rating": 1.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user172",
+      "rating": 5.0,
+      "text": "Mükemmel bir retro ayakkabı. İnanılmaz hafif ve ayağı yormuyor. Mavi rengi tam göründüğü gibi canlı ve çok şık. Orijinal ürün, sorunsuz teslimat.",
+      "polarity": 0.9,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user173",
+      "rating": 5.0,
+      "text": "Tam bir 70'ler klasiği. Hem spor hem de günlük kıyafetlerle harika duruyor. Kalıbı tam oldu, kendi numaramı aldım. Çok memnun kaldım.",
+      "polarity": 0.8,
+      "intensity": 0.7,
+      "density": 0.66,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user174",
+      "rating": 4.0,
+      "text": "Ayakkabının duruşu ve hafifliği çok iyi. Sadece tabanı modern spor ayakkabılar kadar destekli değil, sonuçta bu bir lifestyle modeli. Bunu bilerek aldım, genel olarak memnunum",
+      "polarity": 0.4,
+      "intensity": 0.6,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user175",
+      "rating": 4.0,
+      "text": "Ürün güzel, kalıbı biraz dar bir model. Ayağınız taraklıysa yarım numara büyük düşünebilirsiniz. Bunun dışında anlatıldığı gibiydi.",
+      "polarity": 0.2,
+      "intensity": 0.6,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user176",
+      "rating": 3.0,
+      "text": "Modeli ve rengi beğendim ama süet kısımları çok hassas. Daha ilk günden hafif bir leke oldu. Temizliğine ekstra özen göstermek gerekiyor. Fena değil.",
+      "polarity": -0.1,
+      "intensity": 0.4,
+      "density": 0.5,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user177",
+      "rating": 1.0,
+      "text": "Hayatımda gördüğüm en kötü işçilik. Ayakkabıyı giymemin ikinci gününde, ön taraftaki naylon ve süet kısmın birleştiği yerden dikişler atmaya başladı. İnanılır gibi değil. Direkt iade süreci başlattım.",
+      "polarity": -0.8,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_08": [
+    {
+      "user": "user178",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user179",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user180",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user181",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user182",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user183",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user184",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user185",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user186",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user187",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user188",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user189",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user190",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user191",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user192",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user193",
+      "rating": 1.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user194",
+      "rating": 5.0,
+      "text": "Ultraboost Light gerçekten de serinin en hafif modeli olmuş. Enerji geri dönüşü harika. Orijinal ürün, hızlı teslim edildi.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user195",
+      "rating": 5.0,
+      "text": "İnanılmaz rahat bir ayakkabı. Sanki bulutların üzerinde yürüyormuşum gibi hissediyorum. Koşu için aldım ama günlük olarak da ayağımdan çıkarmıyorum. Verdiği her kuruşu hak ediyor",
+      "polarity": 0.9,
+      "intensity": 0.9,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user196",
+      "rating": 4.0,
+      "text": "Performansı ve rahatlığı mükemmel. Tek yıldızı bembeyaz olduğu için kırdım, en ufak bir şeyde kirleniyor ve temiz tutmak gerçekten çok zor. Onun dışında harika.",
+      "polarity": 0.5,
+      "intensity": 0.8,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user197",
+      "rating": 4.0,
+      "text": "Ayakkabı çok iyi. Gün boyu ayakta çalışanlar için kesinlikle tavsiye ederim. Fiyatı biraz yüksek olduğu için indirimde yakalamak en mantıklısı.\"",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user198",
+      "rating": 4.0,
+      "text": "Standart Ultraboost kalıbı, tam numaramı aldım oldu. Ürün anlatıldığı gibi. Sorunsuz bir alışveriş.",
+      "polarity": 1.0,
+      "intensity": 1.0,
+      "density": 1.0,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user199",
+      "rating": 3.0,
+      "text": "Rahatlığına diyecek yok ama Primeknit üst kısım ayağı biraz terletiyor, özellikle sıcak havalarda. Havalandırması daha iyi olabilirdi.",
+      "polarity": 0.2,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user200",
+      "rating": 3.0,
+      "text": "Bir önceki Ultraboost modelini de kullanmıştım. Bu 'Light' versiyonunun çok büyük bir farkını hissetmedim açıkçası. Fena değil ama devrimsel bir yenilik yok.",
+      "polarity": 0.0,
+      "intensity": 0.3,
+      "density": 0.3,
+      "sentiment_class": "neutral"
+    },
+    {
+      "user": "user201",
+      "rating": 2.0,
+      "text": "Alalı henüz 2 ay oldu ve topuk kısmındaki plastik destek kafesinin kumaşa bağlandığı yerden yapışkanı atmaya başladı. Bu kadar pahalı bir koşu ayakkabısının bu kadar çabuk yıpranması kabul edilemez.",
+      "polarity": -0.8,
+      "intensity": 0.9,
+      "density": 0.6,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_09": [
+    {
+      "user": "user202",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user203",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user204",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user205",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user206",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user207",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user208",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user209",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user210",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user211",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user212",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user213",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user214",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user215",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user216",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user217",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user218",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user219",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user220",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user221",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user222",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user223",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user224",
+      "rating": 5.0,
+      "text": "Tam aradığım 2000'ler tarzı ayakkabı! Duruşu, kalın bağcıkları ve 'puffy' yapısı harika. Gri ve siyahın uyumu da kauçuk tabanla mükemmel olmuş.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user225",
+      "rating": 5.0,
+      "text": "İnanılmaz rahat ve şık. Orijinal ürün, kutusunda sorunsuz geldi. Gün boyu ayağımda olmasına rağmen hiç rahatsız etmedi.\"",
+      "polarity": 0.9,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user226",
+      "rating": 4.0,
+      "text": "Bu modeli uzun zamandır arıyordum. Satıcı çok hızlı kargoladı. Fotoğraflarda ne görüyorsanız o geliyor. Teşekkürler.",
+      "polarity": 0.7,
+      "intensity": 0.7,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user227",
+      "rating": 4.0,
+      "text": "Ayakkabı çok güzel, tam numaramı aldım oldu. Sadece süet olduğu için kirlenmesinden biraz endişeliyim, koruyucu sprey sıkmak şart.",
+      "polarity": 0.5,
+      "intensity": 0.6,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user228",
+      "rating": 4.0,
+      "text": "Genel olarak çok beğendim. Kalıbı biraz geniş ve kaba bir ayakkabı, bu tarzı sevenler için ideal. Beklediğimden bir tık ağır sadece",
+      "polarity": 0.2,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user229",
+      "rating": 4.0,
+      "text": "Ürün anlatıldığı gibi. Campus modellerinin kalıbı geniştir, bunu bilerek alın. Sorunsuz bir alışverişti.",
+      "polarity": 0.5,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user230",
+      "rating": 4.0,
+      "text": "Teslimat zamanında yapıldı. Ayakkabı güzel ama kutusu biraz ezilmişti. Benim için problem değil ama hediye alacaklar için sorun olabilir.",
+      "polarity": 0.1,
+      "intensity": 0.5,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user231",
+      "rating": 3.0,
+      "text": "Modelin duruşu iyi ama ayakkabının dil kısmı sürekli yana doğru kayıyor ve düzeltmek gerekiyor. Bu durum biraz can sıkıcı olabiliyor.",
+      "polarity": -0.3,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user232",
+      "rating": 2.0,
+      "text": "Ayakkabıyı alalı daha bir ay olmadı, süet kısımlarında, özellikle katlanma yerlerinde renk solması gibi bir durum oluşmaya başladı. Bu fiyata daha kaliteli bir malzeme beklerdim. Model güzel ama malzeme kalitesi zayıf kalmış.",
+      "polarity": -0.4,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_10": [
+    {
+      "user": "user233",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user234",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user235",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user236",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user237",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user238",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user239",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user240",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user241",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user242",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user243",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user244",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user245",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user246",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user247",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user248",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user249",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user250",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user251",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user252",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user253",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user254",
+      "rating": 5.0,
+      "text": "İnanılmaz dikkat çekici bir ayakkabı. Gümüş rengi ve çatlak dokusu tam bir 'statement' parçası. Girdiğim her ortamda mutlaka soruluyor. Bayıldım!",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user255",
+      "rating": 5.0,
+      "text": "Klasik Samba rahatlığı, fütüristik bir tasarımla birleşmiş. Orijinal ürün, hızlı kargo. Fotoğraftakinden bile daha güzel.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user256",
+      "rating": 5.0,
+      "text": "Farklı ve cesur bir model. Kombinlerime bambaşka bir hava kattı. Tam numaramı aldım ve mükemmel oldu.",
+      "polarity": 0.7,
+      "intensity": 0.7,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user257",
+      "rating": 5.0,
+      "text": "Metalik ayakkabıları hep sevmişimdir, bu modelin çatlak dokusu onu eşsiz kılıyor. Satıcıya güvenilirliği için teşekkürler.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user258",
+      "rating": 4.0,
+      "text": "Ayakkabı harika, çok şık. Sadece metalik yüzeyin katlanma yerlerinde iz kalmasından biraz endişeliyim. Zamanla göreceğiz. Şimdilik çok memnunum.",
+      "polarity": 0.5,
+      "intensity": 0.6,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user259",
+      "rating": 4.0,
+      "text": "Tasarımı çok beğendim. Klasik Samba'ya göre malzemesi biraz daha sert geldi ama giydikçe açılacağını düşünüyorum. Duruşu çok havalı.",
+      "polarity": 0.5,
+      "intensity": 0.8,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user260",
+      "rating": 4.0,
+      "text": "Ürün güzel, tam oldu. Sadece kutusu biraz hasarlıydı. Ayakkabıda sorun olmadığı için önemsemedim.",
+      "polarity": 0.2,
+      "intensity": 0.5,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user261",
+      "rating": 4.0,
+      "text": "Genel olarak çok iyi. Gümüş rengi göründüğünden bir tık daha parlak, neredeyse ayna gibi. Bu hali daha çok hoşuma gitti",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user262",
+      "rating": 4.0,
+      "text": "Ürün görseldeki gibi. Klasik Samba kalıbı, numaranızı alabilirsiniz. Özel bir materyali olduğu için bakımı zor olabilir.",
+      "polarity": 0.1,
+      "intensity": 0.3,
+      "density": 0.2,
+      "sentiment_class": "neutral"
+    },
+    {
+      "user": "user263",
+      "rating": 3.0,
+      "text": "Tasarım ilginç ama günlük kullanım için ne kadar uygun emin olamadım. Özel günler için saklanacak bir ayakkabı gibi daha çok.",
+      "polarity": 0.0,
+      "intensity": 0.0,
+      "density": 0.0,
+      "sentiment_class": "neutral"
+    },
+    {
+      "user": "user264",
+      "rating": 2.0,
+      "text": "Çatlak doku güzel bir fikir ama ayakkabının bazı yerlerinde, özellikle bağcık deliklerinin kenarlarında, soyulacakmış gibi duruyor. Malzeme kalitesinden pek emin olamadım.",
+      "polarity": -0.2,
+      "intensity": 0.6,
+      "density": 0.4,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user265",
+      "rating": 2.0,
+      "text": "Tam bir hayal kırıklığı. Ayakkabıyı sadece üç kez giydim ve burun kısmındaki katlanma yerinde çatlak doku gerçekten dökülmeye ve alttaki bez ortaya çıkmaya başladı. Bu fiyata bu kadar kötü kalite kabul edilemez. İade ediyorum.",
+      "polarity": -0.8,
+      "intensity": 0.9,
+      "density": 0.7,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_11": [
+    {
+      "user": "user266",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user267",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user268",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user269",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user270",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user271",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user272",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user273",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user274",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user275",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user276",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user277",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user278",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user279",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user280",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user281",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user282",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user283",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user284",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user285",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user286",
+      "rating": 1.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user287",
+      "rating": 5.0,
+      "text": "Simsiyah bir Chuck Taylor, tam bir klasik. Her dolapta olması gereken, her kıyafetle uyumlu bir parça. Orijinal ürün, sorunsuz teslimat.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user288",
+      "rating": 5.0,
+      "text": "Modelin asilliği harika. Siyah rengi hem logoda hem bağcıklarda kullanılması çok şık bir bütünlük sağlamış. Çok memnunum.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user289",
+      "rating": 5.0,
+      "text": "Satıcı çok hızlıydı, ertesi gün elime ulaştı. Ayakkabı zaten bildiğim ve sevdiğim bir model. Tam numaramı aldım, tam oldu.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user290",
+      "rating": 4.0,
+      "text": "Ayakkabı çok güzel. Tek eksiği Converse'in klasik sorunu olan ince tabanı. Uzun saatler ayakta kalınca biraz yorabiliyor ama tarzı için değer.",
+      "polarity": 0.2,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user291",
+      "rating": 4.0,
+      "text": "Genel olarak çok beğendim. Sadece kargo kutusu biraz yıpranmıştı, onun dışında ayakkabının kendisinde bir sorun yoktu. Tavsiye ederim.",
+      "polarity": 0.6,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user292",
+      "rating": 4.0,
+      "text": "Ürün görseldekiyle birebir aynı. Standart Converse kalıbı, numaranız neyse onu alabilirsiniz. Sorunsuz, standart bir alışverişti.",
+      "polarity": 0.5,
+      "intensity": 0.5,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user293",
+      "rating": 3.0,
+      "text": "Model güzel ama bu tamamen siyah olanın kanvas kumaşı sanki klasik modellere göre biraz daha sert gibi geldi. Giydikçe yumuşayacağını umuyorum.",
+      "polarity": 0.1,
+      "intensity": 0.6,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user294",
+      "rating": 3.0,
+      "text": "Fiyatına göre fena değil. Ayakkabının bilek kısmı ilk giydiğimde biraz sıktı, birkaç giyimden sonra normale döndü. Ortalama bir rahatlığı var.",
+      "polarity": 0.2,
+      "intensity": 0.5,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    }
+  ],
+  "ayk_12": [
+    {
+      "user": "user295",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user296",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user297",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user298",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user299",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user300",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user301",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user302",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user303",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user304",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user305",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user306",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user307",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user308",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user309",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user310",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user311",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user312",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user313",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user314",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user315",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user316",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user317",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user318",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user319",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user320",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user321",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user322",
+      "rating": 1.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user323",
+      "rating": 5.0,
+      "text": "Kırmızının en güzel tonu! Rengi o kadar canlı ki bütün dikkatleri üzerine çekiyor. Klasik Converse rahatlığı ve şıklığı bir arada.",
+      "polarity": 0.8,
+      "intensity": 0.8,
+      "density": 0.75,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user324",
+      "rating": 5.0,
+      "text": "Tam bir rock & roll ayakkabısı. Orijinal ürün, kutusunda sorunsuz bir şekilde geldi. Satıcıya hızlı kargo için teşekkürler",
+      "polarity": 0.7,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user325",
+      "rating": 5.0,
+      "text": "Bu rengi uzun zamandır arıyordum. Tam numaramı aldım ve ayağıma mükemmel oturdu. Herkese tavsiye ederim.",
+      "polarity": 0.9,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user326",
+      "rating": 4.0,
+      "text": "Ayakkabı harika, rengi fotoğraflardakinden bile daha canlı. Tek yıldızı, beyaz bağcıkların kırmızı kanvas üzerinde çok çabuk kirlenmesinden kırdım",
+      "polarity": 0.5,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user327",
+      "rating": 4.0,
+      "text": "Genel olarak çok memnunum. Model zaten bilinen bir model. Sadece teslimat beklediğimden bir gün daha uzun sürdü.",
+      "polarity": 0.2,
+      "intensity": 0.3,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user328",
+      "rating": 4.0,
+      "text": "Duruşu çok güzel. Kırmızı renk her şeyle gitmez diye düşünüyordum ama şaşırtıcı derecede uyumlu. Çok beğendim.",
+      "polarity": 0.8,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user329",
+      "rating": 4.0,
+      "text": "Kaliteli ve şık bir ayakkabı. Fiyatını hak ediyor. Sadece ilk giydiğimde bilek kısmı biraz sertti, zamanla yumuşadı",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user330",
+      "rating": 4.0,
+      "text": "Ürün anlatıldığı gibi. Standart Converse kalıbı. Numaranız neyse onu alabilirsiniz. Sorunsuz bir alışverişti.",
+      "polarity": 0.7,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user331",
+      "rating": 3.0,
+      "text": "Rengi güzel ama bu kırmızı renkli kanvasın siyah modellere göre daha çabuk solacakmış gibi bir hissi var. Zamanla göreceğiz.",
+      "polarity": -0.2,
+      "intensity": 0.5,
+      "density": 0.4,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user332",
+      "rating": 3.0,
+      "text": "Ayakkabının tabanı çok ince. Günlük kısa süreli kullanım için uygun ama uzun yürüyüşlerde ayağı yoruyor. Ortalama bir ürün.",
+      "polarity": -0.3,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user333",
+      "rating": 1.0,
+      "text": "Tam bir fiyasko. Ayakkabıyı giymemin ikinci haftasında, yan taraftaki beyaz kauçuk şerit kanvastan ayrılmaya başladı. Bu kadar basit bir yapıştırma hatası olamaz. Kalite kontrol sıfır. İade ediyorum.",
+      "polarity": -0.8,
+      "intensity": 0.9,
+      "density": 0.6,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_13": [
+    {
+      "user": "user334",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user335",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user336",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user337",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user338",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user339",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user340",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user341",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user342",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user343",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user344",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user345",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user346",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user347",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user348",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user349",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user350",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user351",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user352",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user353",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user354",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user355",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user356",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user357",
+      "rating": 5.0,
+      "text": "One Star modeli gerçekten çok şık. Süet kalitesi harika ve Chuck Taylor'a göre tabanı daha konforlu. Kaykay için de günlük kullanım için de ideal.",
+      "polarity": 0.8,
+      "intensity": 0.7,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user358",
+      "rating": 5.0,
+      "text": "Klasik siyah-beyaz renk uyumu ve ikonik yıldız logosuyla zamansız bir parça. Orijinal ürün, hızlı ve sorunsuz bir şekilde elime ulaştı. Çok memnunum.",
+      "polarity": 0.9,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user359",
+      "rating": 4.0,
+      "text": "Ayakkabı çok güzel ve rahat. Tek dezavantajı süet olduğu için bakımının zor olması ve kolay toz toplaması. Koruyucu sprey kullanmak şart.",
+      "polarity": 0.5,
+      "intensity": 0.6,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user360",
+      "rating": 4.0,
+      "text": "Genel olarak çok iyi. Kalıbı standart Converse modellerine göre bir tık daha geniş, benim ayağıma tam oturdu. Satıcı güvenilir.",
+      "polarity": 0.7,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user361",
+      "rating": 3.0,
+      "text": "Model fena değil ama beklediğim kadar rahat çıkmadı. Tabanı yine de biraz düz geldi. Günlük kısa süreli kullanım için idare eder.",
+      "polarity": 0.1,
+      "intensity": 0.5,
+      "density": 0.33,
+      "sentiment_class": "neutral"
+    },
+    {
+      "user": "user362",
+      "rating": 1.0,
+      "text": "Tam bir hayal kırıklığı. Ayakkabıyı alalı daha bir ay bile olmadı ve yan taraftaki yıldız logosunun dikişleri atmaya, kenarları sökülmeye başladı. Converse'e bu kaliteyi yakıştıramadım. İade ediyorum.",
+      "polarity": -0.8,
+      "intensity": 0.9,
+      "density": 0.6,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_14": [
+    {
+      "user": "user363",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user364",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user365",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user366",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user367",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user368",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user369",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user370",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user371",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user372",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user373",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user374",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user375",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user376",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user377",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user378",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user379",
+      "rating": 1.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user380",
+      "rating": 1.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user381",
+      "rating": 5.0,
+      "text": "Kırmızının en canlı tonu! Alçak bilekli olduğu için yaz aylarında şortlarla ve elbiselerle harika duruyor. Tam bir klasik.",
+      "polarity": 0.9,
+      "intensity": 0.8,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user382",
+      "rating": 5.0,
+      "text": "Orijinal ürün, kutusunda ve sorunsuz geldi. Satıcı çok hızlı kargoladı. Her zamanki Converse kalitesi ve şıklığı",
+      "polarity": 0.9,
+      "intensity": 0.7,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user383",
+      "rating": 4.0,
+      "text": "Rengi çok güzel, modeli zaten seviyorum. Tek yıldızı tabanının çok düz olmasından kırdım, uzun yürüyüşler için ideal değil.",
+      "polarity": 0.5,
+      "intensity": 0.6,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user384",
+      "rating": 4.0,
+      "text": "Genel olarak memnunum. Sadece beyaz kauçuk kısımları çok çabuk kirleniyor ve temizlemesi biraz zahmetli oluyor.",
+      "polarity": 0.2,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user385",
+      "rating": 4.0,
+      "text": "Ürün fotoğraftaki gibi. Standart Converse kalıbı, kendi numaranızı alabilirsiniz. Beklentilerimi karşılayan, sorunsuz bir alışveriş oldu.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user386",
+      "rating": 3.0,
+      "text": "Ayakkabının bağcıkları gereksiz uzun geldi, değiştirmek zorunda kaldım. Onun dışında fena değil",
+      "polarity": -0.2,
+      "intensity": 0.5,
+      "density": 0.3,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user387",
+      "rating": 3.0,
+      "text": "Konfor odaklı bir ayakkabı değil, daha çok tarzı için alınıyor. Kırmızı kanvas kumaşı da siyaha göre daha çabuk solacak gibi duruyor.",
+      "polarity": -0.4,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user388",
+      "rating": 1.0,
+      "text": "Ürünü teslim aldığımda, kanvas kumaş ile kauçuk tabanın birleştiği yerlerde sarı yapıştırıcı lekeleri vardı. Çok özensiz bir işçilik. Direkt iade ettim.",
+      "polarity": -0.9,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_15": [
+    {
+      "user": "user389",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user390",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user391",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user392",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user393",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user394",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user395",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user396",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user397",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user398",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user399",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user400",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user401",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user402",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user403",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user404",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user405",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user406",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user407",
+      "rating": 5.0,
+      "text": "Tam bir 'dad shoe' klasiği. İnanılmaz rahat ve hafif. Gün boyu ayağımda olmasına rağmen hiç yormadı. Rengi ve modeli de harika.",
+      "polarity": 0.8,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user408",
+      "rating": 5.0,
+      "text": "New Balance konforu diye bir şey var. Hem spor yaparken hem de günlük hayatta giymek için ideal. Orijinal ürün, satıcıya teşekkürler.",
+      "polarity": 0.9,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user409",
+      "rating": 4.0,
+      "text": "Ayakkabı çok güzel. Sadece gümüş rengi kısımları fotoğrafta daha mat görünüyordu, gerçekte biraz daha parlak. Yine de çok şık duruyor",
+      "polarity": 0.7,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user410",
+      "rating": 4.0,
+      "text": "Genel olarak memnunum. Tam numaramı aldım oldu. Kargo şirketi biraz geç getirdi sadece, ürünle ilgili bir sorun yok.",
+      "polarity": 0.6,
+      "intensity": 0.5,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user411",
+      "rating": 4.0,
+      "text": "Ürün fotoğraftaki gibi. Standart New Balance kalıbı, kendi numaranızı alabilirsiniz. Sorunsuz, beklentilerimi karşılayan bir alışveriş oldu.",
+      "polarity": 0.8,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user412",
+      "rating": 3.0,
+      "text": "Modeli retro olduğu için ayağı biraz kaba ve büyük gösteriyor. Tarzı bu şekilde, alacak olanlar bunu göz önünde bulundursun. Rahatlığı ortalama.",
+      "polarity": -0.1,
+      "intensity": 0.3,
+      "density": 0.2,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user413",
+      "rating": 1.0,
+      "text": "Büyük hayal kırıklığı. Ayakkabıyı giymeye başlayalı daha bir ay bile olmadan, ön taraftaki file (mesh) kumaşın dikişlerinde sökülme başladı. Bu fiyata bu kadar kalitesiz bir ürün beklemiyordum.",
+      "polarity": -0.8,
+      "intensity": 0.9,
+      "density": 0.6,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_16": [
+    {
+      "user": "user414",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user415",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user416",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user417",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user418",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user419",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user420",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user421",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user422",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user423",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user424",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user425",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user426",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user427",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user428",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user429",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user430",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user431",
+      "rating": 1.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user432",
+      "rating": 5.0,
+      "text": "NB 574 konforu diye bir gerçek var. Hardal sarısı rengi tam bir sonbahar rengi, fotoğraftakinden bile daha güzel.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user433",
+      "rating": 5.0,
+      "text": "Klasik 574 modeli, her zaman favorim. Orijinal ürün, kutusunda sorunsuz geldi. Satıcıya hızlı kargo için teşekkürler.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user434",
+      "rating": 5.0,
+      "text": "Rengi ve duruşu harika. Gün boyu ayağımda olmasına rağmen hiç yormadı. Kesinlikle tavsiye ederim.",
+      "polarity": 0.9,
+      "intensity": 0.9,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user435",
+      "rating": 5.0,
+      "text": "Hem kotlarla hem de kumaş pantolonlarla çok şık duruyor. Farklı bir renk arayanlar için ideal bir seçim.",
+      "polarity": 0.5,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user436",
+      "rating": 4.0,
+      "text": "Ayakkabı çok rahat ve şık. Tek yıldızı süet kısımlarının bakımının biraz zor olmasından kırdım. Dikkatli kullanmak gerekiyor.",
+      "polarity": 0.2,
+      "intensity": 0.5,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user437",
+      "rating": 4.0,
+      "text": "Genel olarak çok beğendim. Sadece kalıbı diğer NB modellerine göre bir tık geniş gibi geldi. Yine de rahatsız edici değil.",
+      "polarity": 0.4,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user438",
+      "rating": 4.0,
+      "text": "Rengi çok güzel. Teslimat zamanında yapıldı ancak ayakkabı kutusu biraz ezilmişti. Üründe sorun olmadığı için önemsemedim.",
+      "polarity": 0.2,
+      "intensity": 0.3,
+      "density": 0.3,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user439",
+      "rating": 4.0,
+      "text": "Modeli çok seviyorum. Fiyatı biraz yüksek ama indirimde yakaladığım için mutluyum. Kaliteli bir ayakkabı.",
+      "polarity": 0.6,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user440",
+      "rating": 4.0,
+      "text": "Ürün anlatıldığı gibi. Standart 574 modeli. Numaranız neyse onu alabilirsiniz. Sorunsuz bir alışveriş.",
+      "polarity": 0.5,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user441",
+      "rating": 4.0,
+      "text": "Renk fotoğraftakinden bir tık daha koyu geldi. Kötü değil ama tam beklediğim gibi de değil. Yine de kalitesi iyi.",
+      "polarity": 0.1,
+      "intensity": 0.3,
+      "density": 0.4,
+      "sentiment_class": "neutral"
+    },
+    {
+      "user": "user442",
+      "rating": 3.0,
+      "text": "Ayakkabı fena değil ama bu rengin süeti sanki diğer renklere göre daha hassas gibi, hemen leke kapıyor.",
+      "polarity": -0.3,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user443",
+      "rating": 3.0,
+      "text": "Rahatlığı ortalama. Günlük kullanım için uygun ama çok uzun süre ayakta kalacaksanız daha iyi modeller var. Tarzı için alınır.",
+      "polarity": 0.1,
+      "intensity": 0.4,
+      "density": 0.3,
+      "sentiment_class": "neutral"
+    },
+    {
+      "user": "user444",
+      "rating": 1.0,
+      "text": "Daha bir ay kullanmadan ayakkabının ön tarafında, süet ile tabanın birleştiği yerden yapışkanı atmaya başladı. Bu fiyata bu kalite gerçekten çok üzücü.",
+      "polarity": -0.7,
+      "intensity": 0.9,
+      "density": 0.7,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_17": [
+    {
+      "user": "user445",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user446",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user447",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user448",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user449",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user450",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user451",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user452",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user453",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user454",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user455",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user456",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user457",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user458",
+      "rating": 1.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user459",
+      "rating": 5.0,
+      "text": "Füme rengi ile rose gold detayların uyumu harika. Çok zarif ve şık bir ayakkabı. Günlük kullanım için aldım, çok rahat.",
+      "polarity": 0.8,
+      "intensity": 0.8,
+      "density": 0.75,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user460",
+      "rating": 5.0,
+      "text": "Orijinal ürün, tam numaramı aldım ve ayağıma mükemmel uyum sağladı. Rengi fotoğraflarda göründüğünden bile daha güzel.",
+      "polarity": 0.9,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user461",
+      "rating": 4.0,
+      "text": "Ayakkabı çok güzel. Sadece rose gold kısımları beklediğimden biraz daha parlak, ama yine de abartılı durmuyor. Genel olarak memnunum.",
+      "polarity": 0.7,
+      "intensity": 0.6,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user462",
+      "rating": 4.0,
+      "text": "Rahat ve şık bir model. Teslimat hızlıydı. Sadece kargo kutusu biraz ezilmişti, ürünle ilgili bir sorun yoktu.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user463",
+      "rating": 4.0,
+      "text": "Ürün anlatıldığı gibi, standart New Balance kalitesi. Kendi numaranızı alabilirsiniz. Sorunsuz bir alışverişti.",
+      "polarity": 0.8,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user464",
+      "rating": 3.0,
+      "text": "Model şık olsa da 574 serisi kadar rahat değil. Tabanı biraz daha sert geldi. Tarzı için tercih edilebilir.",
+      "polarity": 0.1,
+      "intensity": 0.5,
+      "density": 0.6,
+      "sentiment_class": "neutral"
+    },
+    {
+      "user": "user465",
+      "rating": 3.0,
+      "text": "Fena değil. Malzemesi biraz fazla sentetik hissettirdi. Fiyatına göre daha iyi bir malzeme kalitesi beklerdim.",
+      "polarity": -0.2,
+      "intensity": 0.6,
+      "density": 0.7,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user466",
+      "rating": 1.0,
+      "text": "Büyük hayal kırıklığı. Ayakkabıyı alalı bir ay bile olmadı ve yan taraftaki 'N' logosunun rose gold kaplaması kararmaya ve yer yer soyulmaya başladı.",
+      "polarity": -0.8,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_18": [
+    {
+      "user": "user467",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user468",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user469",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user470",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user471",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user472",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user473",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user474",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user475",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user476",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user477",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user478",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user479",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user480",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user481",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user482",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user483",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user484",
+      "rating": 1.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user485",
+      "rating": 1.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user486",
+      "rating": 5.0,
+      "text": "Fiyatına göre inanılmaz rahat ve hafif bir ayakkabı. Günlük koşturmaca için aldım, ayağımda yok gibi hissediyorum. Kesinlikle tavsiye ederim.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user487",
+      "rating": 5.0,
+      "text": "Okul açılmadan oğluma aldım, çok beğendi. Siyah-beyaz rengi her şeyle uyumlu, tam bir klasik. Orijinal ürün, güvenilir satıcı.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user488",
+      "rating": 4.0,
+      "text": "Genel olarak memnunum. Rahat ve şık bir model. Sadece malzemesi çok premium hissettirmiyor ama zaten fiyatı da ona göre, bu yüzden beklentimi karşıladı.",
+      "polarity": 0.2,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user489",
+      "rating": 4.0,
+      "text": "Ayakkabı güzel, kalıbı tam oldu. Ankara'nın yaz sıcağında bile ayağımı çok terletmedi. Teslimat hızlıydı.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user490",
+      "rating": 4.0,
+      "text": "Ürün fotoğraftaki gibi. Standart Puma kalıbı, numaranız neyse onu alabilirsiniz. Sorunsuz bir alışverişti.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user491",
+      "rating": 3.0,
+      "text": "İlk giydiğimde rahat geldi ama uzun süre ayakta kalınca tabanının desteği biraz yetersiz kalıyor. Fiyatına göre fena değil.",
+      "polarity": -0.1,
+      "intensity": 0.5,
+      "density": 0.4,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user492",
+      "rating": 1.0,
+      "text": "Fiyatı uygun diye aldım ama büyük hata etmişim. Alalı daha iki ay olmadan yan taraftaki klasik Puma şeridinin dikişleri atmaya başladı. Çok dayanıksız.",
+      "polarity": -0.8,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_19": [
+    {
+      "user": "user493",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user494",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user495",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user496",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user497",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user498",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user499",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user500",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user501",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user502",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user503",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user504",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user505",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user506",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user507",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user508",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user509",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user510",
+      "rating": 5.0,
+      "text": "80'ler basketbol ayakkabısı tarzı çok hoşuma gitti. Altın rengi detaylar ayakkabıya gerçekten şık bir hava katmış.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user511",
+      "rating": 5.0,
+      "text": "Puma'nın SoftFoam+ tabanlığı sayesinde inanılmaz rahat. Gün boyu ayağımda olmasına rağmen hiç yormadı. Kesinlikle tavsiye ederim.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user512",
+      "rating": 5.0,
+      "text": "Okul başlamadan önce aldım, hem şık hem de sağlam duruyor. Orijinal ürün, güvenilir satıcı. Teslimat da hızlıydı.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user513",
+      "rating": 4.0,
+      "text": "Ayakkabı genel olarak çok güzel. Sadece basketbol tabanlı olduğu için ST Runner gibi modellere göre biraz daha ağır. Yine de rahatlığı bunu telafi ediyor.",
+      "polarity": 0.5,
+      "intensity": 0.6,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user514",
+      "rating": 4.0,
+      "text": "Modeli çok beğendim. Beyaz olduğu için temiz tutması zor olacak ama şıklığı için değer. Kalıbı tam oldu.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user515",
+      "rating": 4.0,
+      "text": "Fiyatına göre kalitesi gayet iyi. Altın renkli Puma logosu kaliteli duruyor, basit bir baskı değil. Memnun kaldım",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user516",
+      "rating": 4.0,
+      "text": "Ürün fotoğraftaki gibi. Standart Puma kalıbı, numaranız neyse onu alabilirsiniz. Sorunsuz bir alışverişti.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user517",
+      "rating": 3.0,
+      "text": "Görünüşü güzel ama havalandırması pek iyi değil. Ankara'nın sıcağında ayağımı biraz terletti. Sonbahar için daha uygun olabilir.",
+      "polarity": 0.1,
+      "intensity": 0.3,
+      "density": 0.4,
+      "sentiment_class": "neutral"
+    },
+    {
+      "user": "user518",
+      "rating": 3.0,
+      "text": "Ayakkabının sentetik deri malzemesi biraz sert geldi. Ayağımın şeklini alması ve tam olarak rahatlaması biraz zaman alacak gibi duruyor.",
+      "polarity": -0.4,
+      "intensity": 0.6,
+      "density": 0.7,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user519",
+      "rating": 2.0,
+      "text": "Daha bir ay bile olmadan, ayakkabının tabanı ile üst kısmının birleştiği yerden, tam burun kıvrımında açılma yaptı. Yapıştırıcısı çok kalitesiz.",
+      "polarity": -0.8,
+      "intensity": 0.9,
+      "density": 0.9,
+      "sentiment_class": "negative"
+    }
+  ],
+  "ayk_20": [
+    {
+      "user": "user520",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user521",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user522",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user523",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user524",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user525",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user526",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user527",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user528",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user529",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user530",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user531",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user532",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user533",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user534",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user535",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user536",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user537",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user538",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user539",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user540",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user541",
+      "rating": 1.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user542",
+      "rating": 5.0,
+      "text": "Bilekli ayakkabıları her zaman sevmişimdir. Bu modelin retro basketbol tarzı ve duruşu harika. Çok rahat ve şık.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user543",
+      "rating": 5.0,
+      "text": "Ankara'nın serinleyecek sonbahar havaları için ideal bir seçim. Bileği sıcak tutuyor ve tabanı çok rahat. Orijinal ürün, sorunsuz geldi.",
+      "polarity": 0.8,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user544",
+      "rating": 5.0,
+      "text": "Okul için aldım, tam aradığım gibi bir model. Siyah-beyaz rengi sayesinde her şeyle uyumlu. Kalitesi de yerinde duruyor.",
+      "polarity": 0.9,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user545",
+      "rating": 4.0,
+      "text": "Ayakkabı çok güzel, genel olarak memnunum. Sadece bilekli olduğu için giyip çıkarması alçak modellere göre biraz daha zahmetli oluyor.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user546",
+      "rating": 4.0,
+      "text": "Fotoğrafta göründüğünden bir tık daha kaba duruyor ayakta ama bu tarzı sevdiğim için sorun etmedim. Konforu gayet iyi.",
+      "polarity": 0.5,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user547",
+      "rating": 4.0,
+      "text": "Ürün anlatıldığı gibi. Standart Puma kalıbı, numaranız neyse onu alabilirsiniz. Sorunsuz, standart bir alışverişti.",
+      "polarity": 0.7,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user548",
+      "rating": 3.0,
+      "text": "Görünüşü güzel ama biraz ağır bir ayakkabı. Gün içinde çok hareket ediyorsanız gün sonunda yorabilir.",
+      "polarity": 0.1,
+      "intensity": 0.5,
+      "density": 0.5,
+      "sentiment_class": "neutral"
+    },
+    {
+      "user": "user549",
+      "rating": 1.0,
+      "text": "Alalı daha bir ay bile olmadı, ayakkabının bilek kısmındaki dolgulu malzemenin dikişleri sökülmeye başladı. Çok kalitesiz bir işçilik.",
+      "polarity": -0.8,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "negative"
+    }
+  ]
+}

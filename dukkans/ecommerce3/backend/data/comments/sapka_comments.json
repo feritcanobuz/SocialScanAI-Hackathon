@@ -1,0 +1,2488 @@
+{
+  "sap_01": [
+    {
+      "user": "user4617",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4618",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4619",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4620",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4621",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4622",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4623",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4624",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4625",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4626",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4627",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4628",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4629",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4630",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4631",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4632",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4633",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4634",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4635",
+      "rating": 5.0,
+      "text": "kafaya tam oturuyo ne çok gevşek ne çok sıkı, yazın gölge gibi kurtarıyo.",
+      "polarity": 0.5,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4636",
+      "rating": 5.0,
+      "text": "kumaşı kaliteli geldi, iç kısmı terletmiyo. nike logosu da güzel duruyo.",
+      "polarity": 0.6,
+      "intensity": 0.8,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4637",
+      "rating": 5.0,
+      "text": "güneşli günlerde sahil yürüyüşü için aldım, baya iş gördü.",
+      "polarity": 0.4,
+      "intensity": 0.6,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4638",
+      "rating": 5.0,
+      "text": "katlayıp çantaya atınca formu bozulmuyo, bu yönüyle çok kullanışlı.",
+      "polarity": 0.5,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4639",
+      "rating": 4.0,
+      "text": "renk tonu tam istediğim gibi geldi, canlı ama bağırmıyo.",
+      "polarity": 0.6,
+      "intensity": 0.8,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4640",
+      "rating": 3.0,
+      "text": "ilk geldiğinde biraz kat izi vardı ama 1-2 giyişte düzeldi.",
+      "polarity": 0.2,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4641",
+      "rating": 2.0,
+      "text": "dikiş kısımları sağlam ama iç etiket biraz sert dokulu, bazen kaşıntı yapabiliyo.",
+      "polarity": -0.2,
+      "intensity": 0.5,
+      "density": 0.6,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user4642",
+      "rating": 3.0,
+      "text": "ürün güzel paketlenmişti ama dış poşet yırtılmış halde geldi, şapka zarar görmemişti.",
+      "polarity": -0.1,
+      "intensity": 0.3,
+      "density": 0.4,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user4643",
+      "rating": 4.0,
+      "text": "teslimat hızlıydı ama kurye ürünü güvenliğe bırakıp haber bile vermemiş.",
+      "polarity": -0.4,
+      "intensity": 0.7,
+      "density": 0.7,
+      "sentiment_class": "negative"
+    }
+  ],
+  "sap_02": [
+    {
+      "user": "user4644",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4645",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4646",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4647",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4648",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4649",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4650",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4651",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4652",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4653",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4654",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4655",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4656",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4657",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4658",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4659",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4660",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4661",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4662",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4663",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4664",
+      "rating": 5.0,
+      "text": "oğluma aldım çok yakıştı, kafa ölçüsü tam denk geldi rahat etti.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4665",
+      "rating": 5.0,
+      "text": "kumaşı yumuşak ve hafif, çocuklar için ideal bence.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4666",
+      "rating": 5.0,
+      "text": "güneşli günlerde dışarda oyun oynarken çok işe yarıyo, gölge sağlıyo güzel.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4667",
+      "rating": 5.0,
+      "text": "logosu kaliteli duruyo, yıkayınca da bozulmadı.",
+      "polarity": 0.6,
+      "intensity": 0.6,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4668",
+      "rating": 4.0,
+      "text": "katlayınca cebime bile sığıyo, annelik kolaylaştı resmen.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4669",
+      "rating": 5.0,
+      "text": "rengi birebir görseldeki gibi geldi, çocuğum da çok sevdi.",
+      "polarity": 0.7,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4670",
+      "rating": 4.0,
+      "text": "biraz büyük gibi geldi başta ama birkaç yıkamada toparladı.",
+      "polarity": 0.2,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4671",
+      "rating": 5.0,
+      "text": "paketleme güzeldi, kutu olmasa da düzgün sarılmıştı.",
+      "polarity": 0.5,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4672",
+      "rating": 4.0,
+      "text": "kargo firması yanlış zile basmış, başka daireye bırakmışlar zor ulaştım.",
+      "polarity": -0.7,
+      "intensity": 0.9,
+      "density": 0.7,
+      "sentiment_class": "negative"
+    }
+  ],
+  "sap_03": [
+    {
+      "user": "user4673",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4674",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4675",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4676",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4677",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4678",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4679",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4680",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4681",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4682",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4683",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4684",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4685",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4686",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4687",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4688",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4689",
+      "rating": 5.0,
+      "text": "şapkanın duruşu çok iyi, kafa yapısını bozmuyo tam oturuyo.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4690",
+      "rating": 5.0,
+      "text": "metal swoosh detayı sade ama çok şık bi hava katıyo.",
+      "polarity": 0.6,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4691",
+      "rating": 5.0,
+      "text": "ayarlanabilir kısmı sağlam, kafadan kayma yapmıyo.",
+      "polarity": 0.5,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4692",
+      "rating": 5.0,
+      "text": "gölgelik kısmı ideal uzunlukta, ne çok dar ne fazla geniş.",
+      "polarity": 0.5,
+      "intensity": 0.6,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4693",
+      "rating": 5.0,
+      "text": "günlük kombinlerle çok kolay uyuyo, özellikle yazın vazgeçilmezim oldu.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4694",
+      "rating": 3.0,
+      "text": "renk biraz daha koyu geldi ama yine de güzel duruyo.",
+      "polarity": 0.2,
+      "intensity": 0.4,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4695",
+      "rating": 2.0,
+      "text": "arka kısmındaki dikiş hattında hafif bi potluk vardı, çok göze batmasa da dikkatimi çekti.",
+      "polarity": -0.3,
+      "intensity": 0.5,
+      "density": 0.6,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user4696",
+      "rating": 3.0,
+      "text": "kargo hızlıydı ama kutusuz gelmişti, şans eseri ezilmemişti.",
+      "polarity": 0.2,
+      "intensity": 0.5,
+      "density": 0.67,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4697",
+      "rating": 4.0,
+      "text": "paketleme biraz özensizdi, ama ürün sağlam çıkınca sorun etmedim.",
+      "polarity": 0.1,
+      "intensity": 0.3,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    }
+  ],
+  "sap_04": [
+    {
+      "user": "user4698",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4699",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4700",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4701",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4702",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4703",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4704",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4705",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4706",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4707",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4708",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4709",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4710",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4711",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4712",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4713",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4714",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4715",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4716",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4717",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4718",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4719",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4720",
+      "rating": 5.0,
+      "text": "ferrari logosu gerçekten çok kaliteli duruyo, dışarda baya dikkat çekiyo.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4721",
+      "rating": 5.0,
+      "text": "şapkanın formu sağlam, kafada yamulma yapmıyo tok duruyo.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4722",
+      "rating": 5.0,
+      "text": "gölgelik kısmı tam ideal, hem güneşten koruyo hem de sportif bi hava veriyo.",
+      "polarity": 0.7,
+      "intensity": 0.7,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4723",
+      "rating": 5.0,
+      "text": "arkadaki ayar bandı dayanıklı malzemeden yapılmış, çabuk gevşemiyo.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4724",
+      "rating": 5.0,
+      "text": "kırmızı tonu ferrari kırmızısı gibi canlı, kombinlemesi biraz cesaret istiyo ama güzel duruyo.",
+      "polarity": 0.5,
+      "intensity": 0.6,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4725",
+      "rating": 5.0,
+      "text": "puma kalitesini belli ediyo, dikişler düzgün, kumaşı da nefes alıyo.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4726",
+      "rating": 5.0,
+      "text": "eşime hediye aldım, çok beğendi baya havalı duruyo.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4727",
+      "rating": 3.0,
+      "text": "ön panel biraz sert geldi ama giyince çok batmıyo, zamanla yumuşar.",
+      "polarity": 0.1,
+      "intensity": 0.3,
+      "density": 0.4,
+      "sentiment_class": "neutral"
+    },
+    {
+      "user": "user4728",
+      "rating": 5.0,
+      "text": "kargo tam zamanında geldi, kutu da sağlamdı içi düzenliydi.",
+      "polarity": 0.8,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4729",
+      "rating": 4.0,
+      "text": "teslimat sorunsuzdu ama dış ambalajın üstü tozluydu, keşke daha temiz olsaydı.",
+      "polarity": 0.2,
+      "intensity": 0.5,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    }
+  ],
+  "sap_05": [
+    {
+      "user": "user4730",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4731",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4732",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4733",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4734",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4735",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4736",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4737",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4738",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4739",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4740",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4741",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4742",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4743",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4744",
+      "rating": 5.0,
+      "text": "kafada çok hafif duruyo, terletmiyo ve uzun süre takınca bile rahatsız etmiyo.",
+      "polarity": 0.9,
+      "intensity": 0.8,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4745",
+      "rating": 5.0,
+      "text": "geri dönüştürülmüş malzemeden olması hoşuma gitti, hem çevreci hem kaliteli.",
+      "polarity": 0.9,
+      "intensity": 0.9,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4746",
+      "rating": 5.0,
+      "text": "north face logosu sade ama şık bi detay katıyo, gösterişli değil ama klas duruyo.",
+      "polarity": 0.7,
+      "intensity": 0.6,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4747",
+      "rating": 5.0,
+      "text": "kumaşı yumuşak ama formu bozulmuyo, çantaya atınca bile düzgün kalıyo.",
+      "polarity": 0.5,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4748",
+      "rating": 5.0,
+      "text": "renk tam beklediğim gibi geldi, görselle birebir örtüşüyo.",
+      "polarity": 1.0,
+      "intensity": 1.0,
+      "density": 1.0,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4749",
+      "rating": 3.0,
+      "text": "şapkanın ayar kısmı biraz gevşek gibi geldi, sıkınca zamanla kayıyo hafif.",
+      "polarity": -0.5,
+      "intensity": 0.6,
+      "density": 0.7,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user4750",
+      "rating": 2.0,
+      "text": "arka kısmında dikiş yerinde minik bi potluk vardı, rahatsız etmiyo ama göze çarpıyo.",
+      "polarity": -0.3,
+      "intensity": 0.5,
+      "density": 0.6,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user4751",
+      "rating": 4.0,
+      "text": "kutu kullanılmamıştı, poşetle gönderilmiş ama kat izi yoktu, düzgün geldi.",
+      "polarity": 0.2,
+      "intensity": 0.4,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    }
+  ],
+  "sap_06": [
+    {
+      "user": "user4752",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4753",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4754",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4755",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4756",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4757",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4758",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4759",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4760",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4761",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4762",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4763",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4764",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4765",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4766",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4767",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4768",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4769",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4770",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4771",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4772",
+      "rating": 5.0,
+      "text": "koşu için aldım gerçekten çok hafif, kafada yok gibi hissediliyo.",
+      "polarity": 0.6,
+      "intensity": 0.8,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4773",
+      "rating": 5.0,
+      "text": "ter tutmuyo, nefes alan yapısı sayesinde uzun koşularda bile ferah kalıyo.",
+      "polarity": 0.7,
+      "intensity": 0.9,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4774",
+      "rating": 5.0,
+      "text": "ön kısmı düz panel olduğu için şık duruyo, spor giyime güzel eşlik ediyo.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4775",
+      "rating": 4.0,
+      "text": "ayarlanabilir kısmı kaliteli, sıkınca sabit kalıyo kayma yapmıyo.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4776",
+      "rating": 4.0,
+      "text": "çabuk kuruyo, yağmurda da denedim sorun yaşamadım.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4777",
+      "rating": 5.0,
+      "text": "rengi tam beklediğim gibi geldi, fotoğraftakiyle birebir.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4778",
+      "rating": 4.0,
+      "text": "ilk giydiğimde biraz sert geldi ama sonra şekil aldı, rahatsız etmedi.",
+      "polarity": 0.4,
+      "intensity": 0.5,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4779",
+      "rating": 4.0,
+      "text": "paketleme düzgündü ama kutu yerine poşetle gelmişti, içi sağlamdı.",
+      "polarity": 0.1,
+      "intensity": 0.2,
+      "density": 0.3,
+      "sentiment_class": "neutral"
+    },
+    {
+      "user": "user4780",
+      "rating": 3.0,
+      "text": "kargo zamanında geldi ama teslimatı güvenliğe bırakmışlar haber verilmedi.",
+      "polarity": -0.5,
+      "intensity": 0.6,
+      "density": 0.7,
+      "sentiment_class": "negative"
+    }
+  ],
+  "sap_07": [
+    {
+      "user": "user4781",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4782",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4783",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4784",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4785",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4786",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4787",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4788",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4789",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4790",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4791",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4792",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4793",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4794",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4795",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4796",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4797",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4798",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4799",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4800",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4801",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4802",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4803",
+      "rating": 5.0,
+      "text": "kumaş dokusu yumuşak ve hafif esnek, kafada çok rahat duruyo.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4804",
+      "rating": 5.0,
+      "text": "yıkanmış görünüm detayı çok güzel, retro havası var ama modern duruyo.",
+      "polarity": 0.5,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4805",
+      "rating": 5.0,
+      "text": "güneşten koruması yeterli, sahilde kullanmak için ideal bi model.",
+      "polarity": 0.6,
+      "intensity": 0.8,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4806",
+      "rating": 5.0,
+      "text": "terleme yapmadı, iç astarı hava geçiriyo bence yazın vazgeçilmezim olacak.",
+      "polarity": 0.7,
+      "intensity": 0.9,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4807",
+      "rating": 5.0,
+      "text": "katlayınca bozulmuyo, çantaya at çıkart hemen tak, pratik.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4808",
+      "rating": 4.0,
+      "text": "rengi soluk ama bilinçli yapılmış, bence tarz duruyo sıradan değil.",
+      "polarity": 0.4,
+      "intensity": 0.6,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4809",
+      "rating": 3.0,
+      "text": "logo küçük ama yerleşimi çok şık, göze batmadan kaliteli duruyo.",
+      "polarity": 0.5,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4810",
+      "rating": 4.0,
+      "text": "ilk taktığımda hafif bol geldi ama ayarla toparlandı.",
+      "polarity": 0.2,
+      "intensity": 0.3,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4811",
+      "rating": 4.0,
+      "text": "kargo hızlı geldi ama poşetin ağzı açıktı, içi zarar görmemişti.",
+      "polarity": -0.2,
+      "intensity": 0.4,
+      "density": 0.5,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user4812",
+      "rating": 3.0,
+      "text": "kurye zile basmadan bırakmış gitmiş, ürün şansa kaybolmamış diyebilirim.",
+      "polarity": -0.6,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "negative"
+    }
+  ],
+  "sap_08": [
+    {
+      "user": "user4813",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4814",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4815",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4816",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4817",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4818",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4819",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4820",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4821",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4822",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4823",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4824",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4825",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4826",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4827",
+      "rating": 5.0,
+      "text": "kamuflaj deseni çok iyi işlenmiş, ne fazla göz alıyo ne de silik duruyo.",
+      "polarity": 0.7,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4828",
+      "rating": 5.0,
+      "text": "kafa yapısına güzel oturuyo, yamulma yapmıyo ve tok duruyo.",
+      "polarity": 0.6,
+      "intensity": 0.8,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4829",
+      "rating": 4.0,
+      "text": "günlük kullanımda rahat, özellikle spor kombinlerle çok iyi gidiyo.",
+      "polarity": 0.7,
+      "intensity": 0.9,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4830",
+      "rating": 4.0,
+      "text": "ayarlama bandı sağlam duruyo ama çok sıkınca biraz iz yapıyo.",
+      "polarity": -0.3,
+      "intensity": 0.5,
+      "density": 0.4,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user4831",
+      "rating": 4.0,
+      "text": "kumaşı kalın değil ama dayanıklı hissettirdi, yaz için de uygun.",
+      "polarity": 0.5,
+      "intensity": 0.7,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4832",
+      "rating": 3.0,
+      "text": "şapkanın kenarında küçük bi ip çıkıntısı vardı ama kestim sorun olmadı.",
+      "polarity": -0.1,
+      "intensity": 0.2,
+      "density": 0.2,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user4833",
+      "rating": 4.0,
+      "text": "paketleme iyiydi ama kutu yerine ince poşette gelmişti, şansa ezilmemişti.",
+      "polarity": 0.2,
+      "intensity": 0.6,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    }
+  ],
+  "sap_09": [
+    {
+      "user": "user4834",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4835",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4836",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4837",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4838",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4839",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4840",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4841",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4842",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4843",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4844",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4845",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4846",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4847",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4848",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4849",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4850",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4851",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4852",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4853",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4854",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4855",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4856",
+      "rating": 5.0,
+      "text": "ferrari logosu çok kaliteli işlenmiş, dışarda dikkat çekiyo hemen fark ediliyo.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4857",
+      "rating": 5.0,
+      "text": "şapkanın formu tok ve sağlam, yamulma yapmıyo kafada düzgün duruyo.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4858",
+      "rating": 4.0,
+      "text": "gölgelik kısmı tam kararında, gözlükle bile rahat kullanılıyo.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4859",
+      "rating": 5.0,
+      "text": "puma kalitesini hissettiriyo, dikişleri düzgün, iç astarı da terletmiyo.",
+      "polarity": 0.9,
+      "intensity": 0.95,
+      "density": 0.9,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4860",
+      "rating": 4.0,
+      "text": "kırmızı tonu canlı ama rahatsız etmiyo, yaz günleri için birebir.",
+      "polarity": 0.5,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4861",
+      "rating": 4.0,
+      "text": "kumaş kalın ama başı sıkmıyo, uzun süreli kullanımda da rahat.",
+      "polarity": 0.6,
+      "intensity": 0.8,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4862",
+      "rating": 4.0,
+      "text": "kombinlemesi zor gibi duruyo ama doğru giyince çok havalı.",
+      "polarity": 0.3,
+      "intensity": 0.5,
+      "density": 0.4,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4863",
+      "rating": 3.0,
+      "text": "ilk geldiğinde ön kısmında kat izi vardı, bi gün askıya asınca düzeldi.",
+      "polarity": -0.2,
+      "intensity": 0.3,
+      "density": 0.4,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user4864",
+      "rating": 5.0,
+      "text": "ürün sağlam paketlenmişti, kutusu ezilmeden geldi içi de düzgündü.",
+      "polarity": 0.7,
+      "intensity": 0.9,
+      "density": 0.8,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4865",
+      "rating": 4.0,
+      "text": "kurye ürünü komşuya bırakmış, ne not bırakmış ne aramış, zor ulaştım.",
+      "polarity": -0.8,
+      "intensity": 0.7,
+      "density": 0.6,
+      "sentiment_class": "negative"
+    }
+  ],
+  "sap_10": [
+    {
+      "user": "user4866",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4867",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4868",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4869",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4870",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4871",
+      "rating": 5.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4872",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4873",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4874",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4875",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4876",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4877",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4878",
+      "rating": 4.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4879",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4880",
+      "rating": 3.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4881",
+      "rating": 2.0,
+      "text": "",
+      "polarity": null,
+      "intensity": null,
+      "density": null,
+      "sentiment_class": null
+    },
+    {
+      "user": "user4882",
+      "rating": 5.0,
+      "text": "şapkanın kumaşı çok değişik bi dokuya sahip, yumuşak ama tok duruyo baya kaliteli hissi veriyo.",
+      "polarity": 0.8,
+      "intensity": 0.9,
+      "density": 0.7,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4883",
+      "rating": 5.0,
+      "text": "fleece yapısı sayesinde serin havalarda baya iş görüyo, rüzgar da geçirmiyo.",
+      "polarity": 0.7,
+      "intensity": 0.8,
+      "density": 0.6,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4884",
+      "rating": 5.0,
+      "text": "rengi sade ama şık duruyo, hem spor hem casual kombinlere uyo.",
+      "polarity": 0.6,
+      "intensity": 0.7,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4885",
+      "rating": 5.0,
+      "text": "ön kısmı biraz alçak gibi geldi ama zamanla alıştım, başı sarıyo.",
+      "polarity": -0.3,
+      "intensity": 0.4,
+      "density": 0.5,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user4886",
+      "rating": 4.0,
+      "text": "kafada terleme yapmadı, kumaş hava geçiriyo gibi hissettirdi açıkçası.",
+      "polarity": 0.2,
+      "intensity": 0.6,
+      "density": 0.67,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4887",
+      "rating": 3.0,
+      "text": "ilk taktığımda bi tık küçük geldi ama esneyince rahatsızlık kalmadı.",
+      "polarity": 0.1,
+      "intensity": 0.5,
+      "density": 0.5,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4888",
+      "rating": 2.0,
+      "text": "arka klips kısmı biraz zor kapanıyo ama açılma yapmıyo, sağlam duruyo.",
+      "polarity": -0.1,
+      "intensity": 0.5,
+      "density": 0.5,
+      "sentiment_class": "negative"
+    },
+    {
+      "user": "user4889",
+      "rating": 4.0,
+      "text": "paketleme çok iyiydi, iç kısmına destek konmuştu, hiç ezilme olmamış.",
+      "polarity": 0.8,
+      "intensity": 0.7,
+      "density": 0.75,
+      "sentiment_class": "positive"
+    },
+    {
+      "user": "user4890",
+      "rating": 5.0,
+      "text": "kargo 1 gün gecikti ama müşteri hizmetleri dönüş yaptı, iletişimleri düzgün.",
+      "polarity": -0.2,
+      "intensity": 0.4,
+      "density": 0.4,
+      "sentiment_class": "negative"
+    }
+  ]
+}

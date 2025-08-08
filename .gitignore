@@ -10,11 +10,6 @@ __pycache__/
 .env
 
 
-# State files (hash tracking)
-state/
-state/**
-*.json
-
 # Cache files
 **/__pycache__/
 **/*.pyc

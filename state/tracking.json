@@ -1,0 +1,104 @@
+[
+  {
+    "track_id": "4eee94ca-038f-4577-99d7-86074d245f49",
+    "user_identifier": "whatsapp:+905382589337",
+    "product_id": "ayk_15",
+    "track_type": "stock",
+    "value": "39",
+    "shop": "ecommerce3",
+    "category": "ayakkabi",
+    "created_at": "2025-08-06T22:30:43.476579",
+    "is_active": false,
+    "completed_at": 1754508710.7530441
+  },
+  {
+    "track_id": "ca05158d-8b24-45ca-b547-1c003534660a",
+    "user_identifier": "whatsapp:+905385698740",
+    "product_id": "ayk_15",
+    "track_type": "stock",
+    "value": "39",
+    "shop": "ecommerce3",
+    "category": "ayakkabi",
+    "created_at": "2025-08-06T22:31:03.311106",
+    "is_active": false,
+    "completed_at": 1754508711.3136084
+  },
+  {
+    "track_id": "74e268e2-7827-4b1e-abb2-459bafc29b9f",
+    "user_identifier": "whatsapp:+905038258935",
+    "product_id": "ayk_15",
+    "track_type": "price",
+    "value": "3036",
+    "shop": "ecommerce3",
+    "category": "ayakkabi",
+    "created_at": "2025-08-06T22:32:16.273801",
+    "is_active": true
+  },
+  {
+    "track_id": "350fdf45-1a66-4626-aee7-abec8b037a53",
+    "user_identifier": "whatsapp:+905384569370",
+    "product_id": "ayk_15",
+    "track_type": "price",
+    "value": "3036",
+    "shop": "ecommerce3",
+    "category": "ayakkabi",
+    "created_at": "2025-08-06T22:32:29.621692",
+    "is_active": true
+  },
+  {
+    "track_id": "9e6336c1-020d-4617-87ea-40862bb67c7a",
+    "user_identifier": "whatsapp:+905382589337",
+    "product_id": "ayk_19",
+    "track_type": "stock",
+    "value": "42",
+    "shop": "ecommerce2",
+    "category": "ayakkabi",
+    "created_at": "2025-08-06T22:33:14.763925",
+    "is_active": true
+  },
+  {
+    "track_id": "75e33649-f259-4ba3-840f-7359037fe269",
+    "user_identifier": "whatsapp:+905382589337",
+    "product_id": "ayk_15",
+    "track_type": "stock",
+    "value": "37",
+    "shop": "ecommerce1",
+    "category": "ayakkabi",
+    "created_at": "2025-08-06T23:00:01.806110",
+    "is_active": false,
+    "completed_at": 1754510459.571386
+  },
+  {
+    "track_id": "0f64626d-1a62-4376-909a-161c78439474",
+    "user_identifier": "whatsapp:+905385689340",
+    "product_id": "ayk_15",
+    "track_type": "price",
+    "value": "2899",
+    "shop": "ecommerce1",
+    "category": "ayakkabi",
+    "created_at": "2025-08-06T23:02:21.072427",
+    "is_active": true
+  },
+  {
+    "track_id": "cddf25fc-b5ac-46a8-8ffa-c54cc892d30f",
+    "user_identifier": "whatsapp:+905382589337",
+    "product_id": "ayk_15",
+    "track_type": "price",
+    "value": "2899",
+    "shop": "ecommerce1",
+    "category": "ayakkabi",
+    "created_at": "2025-08-06T23:02:30.893231",
+    "is_active": true
+  },
+  {
+    "track_id": "0fdf10f4-a7c2-431d-a94b-7527185e9cc2",
+    "user_identifier": "whatsapp:+905382589337",
+    "product_id": "ayk_04",
+    "track_type": "price",
+    "value": "4311",
+    "shop": "ecommerce2",
+    "category": "ayakkabi",
+    "created_at": "2025-08-06T23:07:26.513081",
+    "is_active": true
+  }
+]
